@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'PropCare - Landlord Maintenance Manager',
-  description: 'Value Proposition: Solves landlords' improper communication/scheduling of maintenance. Centralized platform for tenant requests, automated scheduling'',
+  description: 'Value Proposition: Solves landlords\' improper communication/scheduling of maintenance. Centralized platform for tenant requests, automated scheduling\'',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
