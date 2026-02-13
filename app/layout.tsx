@@ -7,15 +7,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'PropCare - Landlord Maintenance Manager',
-  description: 'Value Proposition: Solves landlords' improper communication/scheduling of maintenance. Centralized platform for tenant requests, automated scheduling, and contractor coordination. Reduces frustrations, delays, and improves tenant satisfaction.
-
-Target Customer: Small to medium-sized independent landlords, property managers with 5-50 residential units, and real estate investors.
-
----
-Category: Micro-SaaS
-Target Market: Small to medium-sized independent landlords, property managers with 5-50 residential units, and real estate investors.
-Source Hypothesis ID: 56e444d7-1dcc-4045-b855-91a327ae5833
-Promotion Type: automatic',
+  description: 'Value Proposition: Solves landlords' improper communication/scheduling of maintenance. Centralized platform for tenant requests, automated scheduling'',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
